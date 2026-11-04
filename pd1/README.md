@@ -18,4 +18,4 @@ python kods/sveiciens.py
 
 ## Secinājums
 
-Grūtākais solis bija panākt, lai `piezimes.txt` paliktu datorā, bet netiktu publicēts GitHub.
+Grūtākais solis bija panākt, lai `piezimes.txt` paliktu datorā, bet netiktu publicēts GitHub, jo es vispirms izveidoju piezimes.txt un iekomitēju GitHub pirms .gitignore izveides, tāpēc man nācās izpildīt `git rm --cached piezimes.txt` lai piezimes.txt aizvāktu no GitHub un paliktu datora failos.

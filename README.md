@@ -1,2 +1,0 @@
-# programmesana-pamatkurss
-programmesana
